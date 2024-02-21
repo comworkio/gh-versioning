@@ -1,0 +1,5 @@
+name: 'Comwork apps versionning'
+description: 'Checks and creates a release'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
