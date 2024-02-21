@@ -1,6 +1,6 @@
-# GitHub Versionning
+# Comwork Apps Versionning
 
-👋 Welcome to GitHub Versionning!
+👋 Welcome to Comwork Apps Versionning!
 
 This action checks if a GitHub release exists for the version specified in the `VERSION` file of your repository. If the release does not exist, it creates a new one.
 
